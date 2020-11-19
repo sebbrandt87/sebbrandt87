@@ -1,4 +1,10 @@
-### Hi there 👋
+# About me
+
+more to come
+
+# Certificates
+
+[![BadgeCKA](./images/cka_from_cncfsite__281_29_300px.png)][BadgeCKA]
 
 <!--
 **sebbrandt87/sebbrandt87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[BadgeCKA]: https://www.youracclaim.com/badges/544d0db3-5764-4e88-9c29-04a702da5fd2
