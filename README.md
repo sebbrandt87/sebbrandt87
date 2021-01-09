@@ -5,6 +5,7 @@ more to come
 # Certificates
 
 [![BadgeCKA](./images/cka_from_cncfsite__281_29_300px.png)][BadgeCKA]
+[![edXLinkerd](./images/edx_linkerd_300px.png)][edXLinkerd]
 
 <!--
 **sebbrandt87/sebbrandt87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,3 +23,4 @@ Here are some ideas to get you started:
 -->
 
 [BadgeCKA]: https://www.youracclaim.com/badges/544d0db3-5764-4e88-9c29-04a702da5fd2
+[edXLinkerd]: https://courses.edx.org/certificates/5723729debf546e9827fc0a60170e410
